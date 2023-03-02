@@ -6,3 +6,5 @@ Simple notes app using Realm Database
 - Delete notes
 
 
+video link
+https://www.youtube.com/shorts/YvNDBFlKCXs
